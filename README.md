@@ -90,8 +90,12 @@ All charts are saved to `output/charts/`. CSVs for Power BI are in `output/`.
 The 4-page dashboard was built using the exported CSVs:
 
 - **Page 1 — Tournament Overview:** KPI cards, goals-over-time line chart, top nations bar chart
+<img width="423" height="211" alt="Screenshot 2026-07-07 231153" src="https://github.com/user-attachments/assets/a2a1112e-1267-4c6a-9e2f-4075af04ec67" />
+
 - **Page 2 — Team Performance:** Sortable table with conditional formatting, win rate scatter
 - **Page 3 — ML Predictions:** Gauge visuals showing home/draw/away probabilities, feature importance
+<img width="258" height="164" alt="Screenshot 2026-07-07 232046" src="https://github.com/user-attachments/assets/e003e07c-b20b-4ee9-941e-44b0fe693c26" />
+
 - **Page 4 — WC 2026 Tracker:** Live group stage standings and fixtures
 
 [🔗 View Dashboard](<!-- Add Power BI Service link here -->)
